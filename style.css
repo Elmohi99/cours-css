@@ -1,6 +1,5 @@
 .title{
     color: red;text-align: center;font-family: roboto;
-    font-size: 2.5rem;letter-spacing: 3px;text-underline-position: auto;
 }
 
 img {
@@ -13,8 +12,14 @@ img {
     float: right;
   }
 
+  footer {
+    
+    padding: 5px;
+    background-color:rgba(26, 26, 39, 0.611);
+    color:black;
+    
+  }
   body{
-    background-color: blanchedalmond;
+    background-color: antiquewhite;
     font-family: Arial;
   }
-  
